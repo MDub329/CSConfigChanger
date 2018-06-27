@@ -90,13 +90,14 @@
       this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
       this.ClientSize = new System.Drawing.Size(518, 431);
+      this.ControlBox = false;
       this.Controls.Add(this.exit);
       this.Controls.Add(this.crossHair3);
       this.Controls.Add(this.crossHair2);
       this.Controls.Add(this.crossHair1);
       this.Controls.Add(this.cfgButton);
       this.Name = "Form1";
-      this.Text = "Form1";
+      this.Text = "CSConfig Changer 2";
       this.ResumeLayout(false);
 
     }
