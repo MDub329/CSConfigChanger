@@ -1,0 +1,10 @@
+F:\CSharpProjects\CSConfigChanger2.0\bin\Debug\CSConfigChanger2.0.exe.config
+F:\CSharpProjects\CSConfigChanger2.0\bin\Debug\CSConfigChanger2.0.exe
+F:\CSharpProjects\CSConfigChanger2.0\bin\Debug\CSConfigChanger2.0.pdb
+F:\CSharpProjects\CSConfigChanger2.0\obj\Debug\CSConfigChanger2.0.csprojAssemblyReference.cache
+F:\CSharpProjects\CSConfigChanger2.0\obj\Debug\CSConfigChanger2._0.Form1.resources
+F:\CSharpProjects\CSConfigChanger2.0\obj\Debug\CSConfigChanger2._0.Properties.Resources.resources
+F:\CSharpProjects\CSConfigChanger2.0\obj\Debug\CSConfigChanger2.0.csproj.GenerateResource.cache
+F:\CSharpProjects\CSConfigChanger2.0\obj\Debug\CSConfigChanger2.0.csproj.CoreCompileInputs.cache
+F:\CSharpProjects\CSConfigChanger2.0\obj\Debug\CSConfigChanger2.0.exe
+F:\CSharpProjects\CSConfigChanger2.0\obj\Debug\CSConfigChanger2.0.pdb
